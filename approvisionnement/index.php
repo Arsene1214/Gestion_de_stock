@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>	
+<head>
+<meta charset="utf-8">
+<title>Gestion de approvisionnement</title>
+</head>
+<body>
+
+<h1>Gestion de approvisionnement</h1>
+
+<p><a href="ajouter.php">Ajouter une opération</a></p>
+
+<p><a href="liste.php">Liste des opérations</a></p>
+
+</body>
+</html>
+
+
+
